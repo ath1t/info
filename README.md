@@ -24,9 +24,9 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**mysub**](https://github.com/ath1t/mysub) ([live](https://ath1t-mysub.vercel.app)) | Automated proxy and subscription node aggregator powered by scheduled Python workers and GitHub Actions | Python, GitHub Actions, Vercel |
-| [**ath1t.github.io**](https://github.com/ath1t/ath1t.github.io) ([live](https://ath1t.github.io)) | Interactive browser-based terminal portfolio with live GitHub API integration | JavaScript, Tailwind CSS |
-| [**ffmpeg-sub-pipeline**](https://github.com/ath1t) | CLI toolkit for batch FFmpeg encoding, loudness normalization, and .srt/.ass subtitle styling | Python, FFmpeg |
+| [**mysub**](https://github.com/ath1t/mysub) ([live](https://ath1t-mysub.vercel.app)) | Automated proxy and subscription node aggregator powered by scheduled Python workers and GitHub Actions | Python, GitHub Actions |
+| [**ath1t.github.io**](https://github.com/ath1t/ath1t.github.io) ([live](https://ath1t.github.io)) | Interactive browser-based terminal portfolio with live GitHub API integration | JavaScript, Tailwind |
+| [**ffmpeg-sub-pipeline**](https://github.com/ath1t/ffmpeg-sub-pipeline) | CLI toolkit for batch FFmpeg encoding, loudness normalization, and .srt/.ass subtitle styling | Python, FFmpeg |
 
 ## 🛠️ Tech stack
 
